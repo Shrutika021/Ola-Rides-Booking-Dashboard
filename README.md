@@ -59,7 +59,10 @@ It helps ride-hailing companies and stakeholders to:
 - **Peak office hours (8–10 AM & 6–9 PM)** witness maximum ride demand.  
 - **Mini cars account for maximum ride volume**, while **Sedans and Prime cars contribute more to revenue**.  
 ---
+## 📸 Dashboard Preview  
+![Ola Rides Booking Dashboard]()
 
+---
 ## 🔗 Project Links  
 - 📊 **Tableau Public Dashboard:**[View Here](https://public.tableau.com/app/profile/shrutika.kamble8693/viz/OlaRidesBookingDashboard/OlaRideBookingPerformanceDashboard?publish=yes)
 - 📂 **Dataset & Files:** [GitHub Repo Link](https://github.com/YourUsername/Ola-Rides-Booking-Dashboard)
