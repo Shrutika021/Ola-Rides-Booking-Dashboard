@@ -60,7 +60,7 @@ It helps ride-hailing companies and stakeholders to:
 - **Mini cars account for maximum ride volume**, while **Sedans and Prime cars contribute more to revenue**.  
 ---
 ## 📸 Dashboard Preview  
-![Ola Rides Booking Dashboard]()
+![Ola Rides Booking Dashboard](https://github.com/Shrutika021/Ola-Rides-Booking-Dashboard/blob/main/2025-09-04.png?raw=true)
 
 ---
 ## 🔗 Project Links  
